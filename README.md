@@ -1,5 +1,5 @@
 # CoinGame
-A teminal game where one plays against the compute. At each turn the player picks a coin(number) from either the left or the right side of an array of coins.
+A teminal-based game where one plays against the compute. At each turn the player picks a coin(number) from either the left or the right side of an array of coins.
 
 ## Rules
 - To begin the game type n numbers separated by spaces, there has to be an even number of coins for the game to be fair.
